@@ -2,3 +2,5 @@
 .gitattributes
 ngrok.exe
 webhookserver.bat
+Auto-Backup.bat
+GITHUBDESKTOP.bat
