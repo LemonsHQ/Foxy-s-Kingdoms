@@ -12,7 +12,7 @@
 <p style="text-align: center;"><span style="font-size: 24px;">As of right now&nbsp;</span><span style="font-size: 24px;">it is in a playable stable state for release!</span></p>
 <p style="text-align: center;"><span style="font-size: 24px;">Keep in mind this is a<strong> 1.7.10 Mod Pack</strong>, and is still being updated!<strong><br /></strong>For more information, try joining the Discord:</span></p>
 <div class="spoiler" style="text-align: center;">
-<p style="text-align: center;"><span style="font-size: 36px;">https://discord.gg/RcJShwHEJb</span></p>
+<p style="text-align: center;"><span style="font-size: 36px;">https://discord.gg/XseYrup6yU</span></p>
 </div>
 <p style="text-align: center;"><span style="font-size: 24px;">Download the latest Releases here!</span></p>
 <div class="spoiler">
