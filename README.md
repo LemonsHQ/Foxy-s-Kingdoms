@@ -17,6 +17,8 @@
 <p style="text-align: center;"><span style="font-size: 24px;">Download the latest Releases here!</span></p>
 <div class="spoiler">
 <p style="text-align: center;"><span style="font-size: 36px;">https://github.com/LemonsHQ/Foxys-Kingdoms/releases</span></p>
+<p style="text-align: center;"><span style="font-size: 24px;">Insall Guide!</span></p>
+<p style="text-align: center;"><span style="font-size: 36px;">https://github.com/LemonsHQ/Foxys-Kingdoms/blob/main/Install.md</span></p>
 </div>
 <p>&nbsp;</p>
 </html>
